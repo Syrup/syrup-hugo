@@ -15,7 +15,7 @@ But before we go, do you know what a Discord bot really is?
 ## What is Discord Bot?
 A Discord bot is a program designed to automate tasks on Discord servers, such as moderating chat, managing users, or providing helpful information.
 
-You can make it a game like RPG, or you can create it according to what you want, such as telling that a YouTuber uploaded a video using the YouTube API, or twitch. Or even more advanced, you can make him record a video and then live stream it on the voice channel.
+You can make it a game like RPG, or you can create it according to what you want, such as telling that a YouTuber uploaded a video using the YouTube API, or twitch.
 
 ## Set Up Application
 Firstly, you'll need to set up an application on Discord's developer portal. To do this, go to the [Discord Developer Portal](https://discord.com/developers/applications) and click on the `New Application` button. Give your application a name and click on `Create`. To do this, you need to create a Discord account first, if you don't have one and then login
@@ -33,7 +33,7 @@ Install `discord.js` library using npm
 ```sh
 npm install discord.js
 ```
-Note that you must have at least nodejs version 16 and above
+Please note that you must have at least nodejs version 16 or above
 
 
 ```js
