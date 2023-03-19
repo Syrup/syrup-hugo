@@ -1,4 +1,0 @@
-run = "bash deploy.sh && miniserve public --index index.html"
-
-
-entrypoint = "content/posts/hello.md"
