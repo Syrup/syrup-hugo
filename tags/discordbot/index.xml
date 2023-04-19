@@ -17,7 +17,7 @@
       <pubDate>Sat, 18 Mar 2023 00:38:20 +0000</pubDate>
       
       <guid>https://issyrup.tech/posts/create-a-discord-bot-1/</guid>
-      <description>TODODiscord is a popular communication platform among gamers and communities, providing voice, text, and video chat capabilities. However, what makes Discord even more special is its extensibility through the use of bots. These bots can be programmed to perform various tasks, such as moderating chat, playing music, or even just responding to certain commands.
+      <description>Discord is a popular communication platform among gamers and communities, providing voice, text, and video chat capabilities. However, what makes Discord even more special is its extensibility through the use of bots. These bots can be programmed to perform various tasks, such as moderating chat, playing music, or even just responding to certain commands.
 If you want to create your own Discord bot, you&amp;rsquo;re in luck! In this tutorial, we&amp;rsquo;ll go through the steps of creating a basic bot using the Discord API.</description>
     </item>
     
