@@ -3,8 +3,10 @@ title: "Create a Discord Bot #1"
 date: 2023-03-18T00:38:20Z
 tags: ["discordbot", "nodejs"]
 categories: ["tutorial", "discord", "bot", "javascript"]
-draft: false
+draft: true
 ---
+
+**NOTE: This post is not finished yet, _TODO_ is at the very bottom of the post**
 
 _Discord_ is a popular communication platform among gamers and communities, providing voice, text, and video chat capabilities. However, what makes _Discord_ even more special is its extensibility through the use of bots. These bots can be programmed to perform various tasks, such as moderating chat, playing music, or even just responding to certain commands.
 
@@ -15,7 +17,7 @@ But before we go, do you know what a Discord bot really is?
 ## What is Discord Bot?
 A Discord bot is a program designed to automate tasks on Discord servers, such as moderating chat, managing users, or providing helpful information.
 
-You can make it a game like RPG, or you can create it according to what you want, such as telling that a YouTuber uploaded a video using the YouTube API, or twitch. Or even more advanced, you can make him record a video and then live stream it on the voice channel.
+You can make it a game like RPG, or you can create it according to what you want, such as telling that a YouTuber uploaded a video using the YouTube API, or twitch.
 
 ## Set Up Application
 Firstly, you'll need to set up an application on Discord's developer portal. To do this, go to the [Discord Developer Portal](https://discord.com/developers/applications) and click on the `New Application` button. Give your application a name and click on `Create`. To do this, you need to create a Discord account first, if you don't have one and then login
@@ -33,7 +35,7 @@ Install `discord.js` library using npm
 ```sh
 npm install discord.js
 ```
-Note that you must have at least nodejs version 16 and above
+Please note that you must have at least nodejs version 16 or above
 
 
 ```js
@@ -106,3 +108,6 @@ And that's it for this tutorial! We hope this has helped you get started with cr
 Overall, this code creates a simple Discord bot that responds with `"Pong!"` when a user types `"!ping"` in a guild where the bot is a member.
 
 In the next tutorial, We will learn how to use interaction. See you there!
+
+#### TODO:
+  - [ ] 1. Add images
