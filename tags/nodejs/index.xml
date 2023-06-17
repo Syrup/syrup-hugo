@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>nodejs on Syrup</title>
-    <link>https://issyrup.tech/tags/nodejs/</link>
+    <link>https://blog.issyrup.tech/tags/nodejs/</link>
     <description>Recent content in nodejs on Syrup</description>
     <image>
       <title>Syrup</title>
-      <url>https://issyrup.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://issyrup.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.issyrup.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.issyrup.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Mar 2023 00:38:20 +0000</lastBuildDate><atom:link href="https://issyrup.tech/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Mar 2023 00:38:20 +0000</lastBuildDate><atom:link href="https://blog.issyrup.tech/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a Discord Bot #1</title>
-      <link>https://issyrup.tech/posts/create-a-discord-bot-1/</link>
+      <link>https://blog.issyrup.tech/posts/create-a-discord-bot-1/</link>
       <pubDate>Sat, 18 Mar 2023 00:38:20 +0000</pubDate>
       
-      <guid>https://issyrup.tech/posts/create-a-discord-bot-1/</guid>
+      <guid>https://blog.issyrup.tech/posts/create-a-discord-bot-1/</guid>
       <description>NOTE: This post is not finished yet, TODO is at the very bottom of the post
 Discord is a popular communication platform among gamers and communities, providing voice, text, and video chat capabilities. However, what makes Discord even more special is its extensibility through the use of bots. These bots can be programmed to perform various tasks, such as moderating chat, playing music, or even just responding to certain commands.</description>
     </item>

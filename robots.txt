@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://issyrup.tech/sitemap.xml
+Sitemap: https://blog.issyrup.tech/sitemap.xml
